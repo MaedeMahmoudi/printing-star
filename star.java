@@ -1,6 +1,19 @@
 import java.util.Scanner;
-//this project written by maedeh mahmoudi 401463169
-public class Main {
+/* for example if  k =10
+************
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+*          *
+************
+*/
+    public class Main {
     public static void main(String[] args) {
 
 
